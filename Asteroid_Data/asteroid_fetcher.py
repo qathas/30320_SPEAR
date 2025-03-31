@@ -4,7 +4,7 @@ import time
 import csv
 
 # ✅ NASA API Key (Replace with your actual key)
-NASA_API_KEY = "Glc9BIfkTZSPvhRYpAEQbnBfUEtyz0e9HN1xPqBd"
+NASA_API_KEY = "key"
 
 # ✅ API Endpoint
 NEO_WS_URL = "https://api.nasa.gov/neo/rest/v1/neo/browse"
